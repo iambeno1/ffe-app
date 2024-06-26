@@ -1,4 +1,5 @@
 # ffe-app
+This is the final project of the Java OOP course that develops the application 'Food for Everyone: A food buying and selling application between sellers and customers' implementing OOP concepts, equipped with Java Swing GUI and MySQL database. <br><br>
 Watch demo : <a href="https://youtu.be/jvU0vGr9mqU">link</a>
 
 **Technology and Tools:**
