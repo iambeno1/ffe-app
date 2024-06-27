@@ -4,7 +4,7 @@ Watch demo : <a href="https://youtu.be/jvU0vGr9mqU">link</a>
 
 **Technology and Tools:**
 - **IDE:** Apache NetBeans 21
-- **Local Server:** XAMPP 3.3.0
+- XAMPP 3.3.0
 - **Programming Language:** Java (OpenJDK 17.0.10)
 - **Database:** MySQL
 
