@@ -9,7 +9,7 @@ Watch demo : <a href="https://youtu.be/jvU0vGr9mqU">link</a>
 - **Database:** MySQL
 
 #### Contact
-You can reach me via email at benonygabriel17@gmail.com
+Email : benonygabriel17@gmail.com
 
 ## Preview App
 ![image](https://github.com/iambeno1/ffe-app/assets/161951897/ea1e2d8a-0b22-46a7-b872-0dd3bde37f81)
